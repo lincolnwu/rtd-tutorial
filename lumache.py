@@ -26,7 +26,7 @@ def get_random_ingredients(kind=None, bad=None, sus=None):
     """
     return ["shells", "gorgonzola", "parsley"]
 
-def func(arg1, arg2):
+def func(arg1: int, arg2: str) -> bool:
     """Summary line.
 
     Extended description of function.
