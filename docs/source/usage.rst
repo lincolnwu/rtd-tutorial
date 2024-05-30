@@ -33,4 +33,5 @@ For example:
 ['shells', 'gorgonzola', 'parsley']
 
 Testing new google docstring
+
 .. autofunction:: lumache.func
