@@ -32,3 +32,5 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Testing new google docstring
+.. autofunction:: lumache.func
